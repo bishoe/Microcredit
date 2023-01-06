@@ -1,0 +1,5 @@
+H:\MicrocreditDB\MicrocreditBackEnd\obj\Debug\net6.0\DataBaseService.csproj.AssemblyReference.cache
+H:\MicrocreditDB\MicrocreditBackEnd\obj\Debug\net6.0\DataBaseService.GeneratedMSBuildEditorConfig.editorconfig
+H:\MicrocreditDB\MicrocreditBackEnd\obj\Debug\net6.0\DataBaseService.AssemblyInfoInputs.cache
+H:\MicrocreditDB\MicrocreditBackEnd\obj\Debug\net6.0\DataBaseService.AssemblyInfo.cs
+H:\MicrocreditDB\MicrocreditBackEnd\obj\Debug\net6.0\DataBaseService.csproj.CoreCompileInputs.cache

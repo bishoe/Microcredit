@@ -1,0 +1,7 @@
+﻿////
+
+ProductsWarehouseT
+T = Tables
+
+
+////

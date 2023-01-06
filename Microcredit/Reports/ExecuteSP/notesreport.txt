@@ -1,0 +1,10 @@
+﻿#
+        public IEnumerable<BranchesT> ExecuteSPBranches(string SPName, [Optional] SqlParameter ParamValue);
+return object from BranchesT use this object to Map id name date else
+
+
+cannot use
+public IEnumerable<object> ExecuteSPBranches(string SPName, [Optional] SqlParameter ParamValue);
+
+cannot mapping to all property in this object
+#
