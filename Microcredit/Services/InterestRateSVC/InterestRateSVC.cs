@@ -72,7 +72,7 @@ namespace Microcredit.Services.InterestRateSVC
             }
             try
             {
-                if (interestRate == null)
+                if (InterestRateId == 0)
                 {
                     responseObject.Message = "Error Please check that all fields are entered";
 
